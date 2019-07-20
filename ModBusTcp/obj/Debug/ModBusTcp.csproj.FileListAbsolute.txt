@@ -1,0 +1,15 @@
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\ModBusTcp.exe.config
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\ModBusTcp.exe
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\ModBusTcp.pdb
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.csprojAssemblyReference.cache
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.Form1.resources
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.Properties.Resources.resources
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.csproj.GenerateResource.cache
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.csproj.CoreCompileInputs.cache
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.exe
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.pdb
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\HslCommunication.dll
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\Newtonsoft.Json.dll
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\HslCommunication.xml
+E:\Ship\ModBusTcp\ModBusTcp\bin\Debug\Newtonsoft.Json.xml
+E:\Ship\ModBusTcp\ModBusTcp\obj\Debug\ModBusTcp.csproj.CopyComplete
